@@ -51,4 +51,4 @@ Understood relationship between ratings, cost, and customer satisfaction
 Developed clear data-driven insights for location selection and restaurant setup
 Built visual dashboards for easy interpretation of restaurant trends
 
-# Author: Chaitra Mahashabde
+Author: Chaitra Mahashabde
