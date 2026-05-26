@@ -4,19 +4,15 @@
 This project focuses on analyzing Zomato restaurant data to understand customer preferences, restaurant trends, pricing patterns, and popular food choices. The analysis helps generate business insights that can support restaurant owners in decision-making related to restaurant setup, menu planning, pricing, and location selection.
 
 # Objectives
-Analyze restaurant ratings and pricing patterns
-Identify high-density restaurant locations
-Understand popular restaurant types and cuisines
-Discover customer-preferred dishes
-Clean and standardize raw dataset
-Create visual insights for business decision-making
+* Generate business insights to help Zomato understand customer preferences, restaurant performance, and market trends.
+* Identify high-demand locations, popular cuisines, and pricing patterns to support Zomato’s business and growth strategies.
 
 #  Tools & Technologies Used
-Python
-Pandas – Data Cleaning & Analysis
-Matplotlib – Data Visualization
-Seaborn – Advanced Visualization
-Jupyter Notebook – Development Environment
+* Python
+* Pandas – Data Cleaning & Analysis
+* Matplotlib – Data Visualization
+* Seaborn – Advanced Visualization
+* Jupyter Notebook – Development Environment
 
 # Analysis Performed
 1. Data Cleaning & Standardization 
@@ -38,12 +34,12 @@ This project analyzed Zomato restaurant data to identify customer preferences, r
 The analysis highlights how urban restaurant markets are highly competitive, with strong demand for affordable dining options, especially Quick Bites and Casual Dining formats. It also shows that restaurant success is influenced by factors such as location density, customer ratings, pricing strategy, and popular dishes.
 
 #  Key Outcomes
-Identified top restaurant hubs with highest demand (e.g., BTM, HSR, Koramangala)
-Found that Quick Bites and Casual Dining dominate the market
-Discovered that most restaurants fall under affordable to mid-range pricing
-Highlighted most popular customer-preferred dishes
-Understood relationship between ratings, cost, and customer satisfaction
-Developed clear data-driven insights for location selection and restaurant setup
-Built visual dashboards for easy interpretation of restaurant trends
+* Identified top restaurant hubs with highest demand (e.g., BTM, HSR, Koramangala)
+* Found that Quick Bites and Casual Dining dominate the market
+* Discovered that most restaurants fall under affordable to mid-range pricing
+* Highlighted most popular customer-preferred dishes
+* Understood relationship between ratings, cost, and customer satisfaction
+* Developed clear data-driven insights for location selection and restaurant setup
+* Built visual dashboards for easy interpretation of restaurant trends
 
 Author: Chaitra Mahashabde
